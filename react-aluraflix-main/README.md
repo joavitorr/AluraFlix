@@ -58,6 +58,3 @@ Para ver a versão rodando do projeto, acesse: [Aluraflix](https://react-alurafl
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
 
----
-
-Desenvolvido por [Victor Gomes](https://github.com/victorgomesl) para Alura em parceria com a ONE.
